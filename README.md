@@ -14,12 +14,28 @@ Sou um desenvolvedor Full-stack especializado em **Javascript**, **PHP**, **SQL*
 
 ### 🛠️ Tecnologias & Ferramentas
 
+#### **Linguagens de Programação**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+#### **Frameworks & Bibliotecas**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+#### **Estilização & Design**
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### **Banco de Dados**
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+#### **Versionamento de Código**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 📫 Entre em Contato
