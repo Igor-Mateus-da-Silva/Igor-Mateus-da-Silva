@@ -38,6 +38,7 @@ Sou um desenvolvedor Full-stack especializado em **Javascript**, **PHP**, **SQL*
 ### 🌟 Repositórios em Destaque
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Igor-Mateus-da-Silva&repo=clone-tabnews&theme=dark)](https://github.com/Igor-Mateus-da-Silva/clone-tabnews)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Igor-Mateus-da-Silva&repo=CodeQuestLab&theme=dark)](https://github.com/Igor-Mateus-da-Silva/CodeQuestLab)
 
 ---
 
