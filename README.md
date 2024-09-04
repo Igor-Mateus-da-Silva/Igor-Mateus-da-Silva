@@ -10,20 +10,21 @@ Sou um desenvolvedor Full-stack especializado em **Javascript**, **PHP**, **SQL*
 - 🔭 **Projetos Atuais:** Explorando novas tecnologias e contribuindo com projetos open-source.
 - 🌱 **Estudos:** Aprofundando habilidades em C# .NET e Node.js.
 - 👯 **Busco Colaborar em:** Projetos inovadores e desafiadores.
-- 💬 **Pergunte-me sobre:** Desenvolvimento Full-stack, boas práticas de código, e metodologias ágeis.
+- 💬 **Pergunte-me sobre:** Desenvolvimento Full-stack, banco de dados, boas práticas de código, e metodologias ágeis.
 
 ### 🛠️ Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
